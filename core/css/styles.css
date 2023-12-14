@@ -132,7 +132,7 @@ button.primary:focus,
 	height: 45px;
 }
 #body-user #logo-claim a {
-	color: #fff;
+	color: #000000;
 }
 /* hide on small screens */
 @media only screen and (max-width: 767px) {
