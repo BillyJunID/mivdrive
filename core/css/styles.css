@@ -140,3 +140,6 @@ button.primary:focus,
 		display: none !important;
 	}
 }
+footer {
+	background-color: #000000;
+}
