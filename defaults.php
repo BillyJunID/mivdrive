@@ -25,7 +25,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getBaseUrl() {
-		return 'https://owncloud.org';
+		return 'https://drive.miv.biz.id';
 	}
 
 	/**
@@ -105,7 +105,7 @@ class OC_Theme {
 	 * @return string slogan
 	 */
 	public function getSlogan() {
-		return 'MIV personel only !';
+		return 'Family Cloud Drive !';
 	}
 
 	/**
@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '<a href="https://miv.biz.id">MIV personel only !</a>';
+		return '<a href="https://miv.biz.id">Family Cloud Drive !</a>';
 	}
 
 	public function getPrivacyPolicyUrl() {
